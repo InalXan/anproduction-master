@@ -20,11 +20,6 @@ const router = createRouter({
       component: () => import("../views/AdminloginView.vue"),
     },
     {
-      path: "/admin/inbox",
-      name: "admininbox",
-      component: () => import("../views/AInboxView.vue"),
-    },
-    {
       path: "/elaqe",
       name: "elaqe",
       component: () => import("../views/ContactView.vue"),
@@ -38,21 +33,6 @@ const router = createRouter({
       path: "/admin/home",
       name: "adminhome",
       component: () => import("../views/AdminhomeView.vue"),
-    },
-    {
-      path: "/admin/show",
-      name: "adminshow",
-      component: () => import("../views/ShowView.vue"),
-    },
-    {
-      path: "/admin/product",
-      name: "adminproduct",
-      component: () => import("../views/ProductAdd.vue"),
-    },
-    {
-      path: "/admin/category",
-      name: "admincategory",
-      component: () => import("../views/AddCategory.vue"),
     },
   ],
 });
