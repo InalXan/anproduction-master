@@ -49,7 +49,7 @@
         </div>
         <div class="flex items-center">
           <p class="text-base font-normal leading-7 text-center text-dark">
-            2024 <a href="www.aist.net" class="text-success">aist</a> All rights reserved.</p>
+            2024 anproduction All rights reserved.</p>
         </div>
       </div>
     </div>
