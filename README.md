@@ -1,6 +1,11 @@
 <h1># Anproduction Furniture MEVN stack crud project</h1>
 <hr/>
 <ul>
+  <li>
+    <h2>Start Project</h2>
+    <code>cd server && npx nodemon</code>
+    <code>cd client && npm run dev</code>
+  </li>
   <li>Backend (express/Mongodb/RestAPI) project ( CRUD )</li>
   <hr/>
   <h3>Website (Vue3js/Tailwindcss/Less/)</h3>
