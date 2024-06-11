@@ -1,17 +1,35 @@
-<h1># Anproduction Furniture MEVN stack crud project</h1>
-<hr/>
-<ul>
-  <li>
-    <h2>Start Project</h2>
-    <code>cd server && npx nodemon</code>
-    <code>cd client && npm run dev</code>
-  </li>
-<hr/>
-  <li>Backend (express/Mongodb/RestAPI) project ( CRUD )</li>
-  <hr/>
-  <h3>Website (Vue3js/Tailwindcss/Less/)</h3>
-  <li>Home(İntro, Trend, New), About, Contact, Products</li>
-<hr/>
-  <h3>Admin Panel(Ejs/Bootstrap/Jquery)</h3>
-  <li>Admin Panel(Category, New, Trend, Products, İnbox) </li>
-</ul>
+# client
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
